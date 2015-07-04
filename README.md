@@ -3,6 +3,8 @@
 
 This is a sample Docker file to run [google/deepdream](https://github.com/google/deepdream) in a portable Docker container with no dependency on GPU.  This work is based on [VISIONAI/clouddream](https://github.com/VISIONAI/clouddream).
 
+![This ipython notebook is running in a Docker container](deepdream-ipython-notebook.png)
+
 How to Run
 ------------
 
